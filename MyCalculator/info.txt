@@ -1,0 +1,3 @@
+This is a calculator app that I have created for Andriod with Andriod Studio, java, and a bit of xml. The java code that I coded is in this directory: \app\src\main\java\com\example\bhagat\mycalculator.
+
+This app is not live for the public, but it can be run on an andriod device plugged into my computer. It is working the way it is intended on my tablet.

@@ -1,0 +1,795 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/Rishavs_Game.py" line="478" mnemonic="9" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e18244d5-cb11-4070-8b04-08748a0c3a7f" name="Default" comment="" />
+    <ignored path="Rishav's Game.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="Rishav's Game" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="Rishavs_Game.py" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Rishavs_Game.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="2271" column="0" selection-start="89089" selection-end="90772" vertical-scroll-proportion="0.64491653" vertical-offset="986" max-vertical-offset="1700">
+              <folding>
+                <element signature="e#1289#9227#0" expanded="false" />
+                <element signature="e#9246#12029#0" expanded="false" />
+                <element signature="e#12052#15955#0" expanded="false" />
+                <element signature="e#15982#16276#0" expanded="false" />
+                <element signature="e#16297#17847#0" expanded="false" />
+                <element signature="e#17869#20428#0" expanded="false" />
+                <element signature="e#20490#21301#0" expanded="false" />
+                <element signature="e#21322#23491#0" expanded="false" />
+                <element signature="e#23518#26449#0" expanded="false" />
+                <element signature="e#26481#28801#0" expanded="false" />
+                <element signature="e#28828#29895#0" expanded="false" />
+                <element signature="e#29922#29949#0" expanded="false" />
+                <element signature="e#29970#30545#0" expanded="false" />
+                <element signature="e#30568#33533#0" expanded="false" />
+                <element signature="e#33552#51670#0" expanded="false" />
+                <element signature="e#51698#57795#0" expanded="false" />
+                <element signature="e#57820#63203#0" expanded="false" />
+                <element signature="e#63225#85202#0" expanded="false" />
+                <element signature="e#85221#88019#0" expanded="false" />
+                <element signature="e#88048#89088#0" expanded="false" />
+                <element signature="e#89138#89257#0" expanded="false" />
+                <element signature="e#89344#90772#0" expanded="false" />
+                <element signature="e#90790#90917#0" expanded="false" />
+                <element signature="e#90939#91975#0" expanded="false" />
+                <element signature="e#91998#92799#0" expanded="false" />
+                <element signature="e#92817#92930#0" expanded="false" />
+                <element signature="e#92965#104445#0" expanded="false" />
+                <element signature="e#92993#94501#0" expanded="false" />
+                <element signature="e#94542#98239#0" expanded="false" />
+                <element signature="e#98283#100077#0" expanded="false" />
+                <element signature="e#100112#104445#0" expanded="false" />
+                <element signature="e#104464#104496#0" expanded="false" />
+                <element signature="e#104492#104496#0" expanded="false" />
+                <element signature="e#104533#104809#0" expanded="false" />
+                <element signature="e#104561#104809#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/sjdk.py" />
+        <option value="$PROJECT_DIR$/Flappy Bird.py" />
+        <option value="$PROJECT_DIR$/Pong.py" />
+        <option value="$PROJECT_DIR$/FlappyBird.py" />
+        <option value="$PROJECT_DIR$/Battle.py" />
+        <option value="$PROJECT_DIR$/DodgeNEat.py" />
+        <option value="$PROJECT_DIR$/CrossyRoad.py" />
+        <option value="$PROJECT_DIR$/Stuff.py" />
+        <option value="$PROJECT_DIR$/miniGame.py" />
+        <option value="$PROJECT_DIR$/Image_Displayer.py" />
+        <option value="$PROJECT_DIR$/Paint.py" />
+        <option value="$PROJECT_DIR$/Rishav's Game.py" />
+        <option value="$PROJECT_DIR$/Brickbreaker.py" />
+        <option value="$PROJECT_DIR$/ImageDownloader.py" />
+        <option value="$PROJECT_DIR$/Beeper.py" />
+        <option value="$PROJECT_DIR$/Testing.py" />
+        <option value="$PROJECT_DIR$/hsdjkfs.py" />
+        <option value="$PROJECT_DIR$/Stuff.BAT" />
+        <option value="$PROJECT_DIR$/Whackathon.BAT" />
+        <option value="$PROJECT_DIR$/MazeProgram.BAT" />
+        <option value="$PROJECT_DIR$/Rishavs_Game.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-7" />
+    <option name="width" value="781" />
+    <option name="height" value="831" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Rishav's Game" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Rishav's Game" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Rishav's Game" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="recentsLimit" value="5" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="options.lastSelected" value="com.jetbrains.python.configuration.PythonSdkConfigurable" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
+    <property name="FullScreen" value="false" />
+    <property name="SearchEverywhereHistory" value="," />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings />
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Bhagat\PycharmProjects\Rishav's Game" />
+      <recent name="C:\Users\Bhagat\PycharmProjects\Rishav's GameS" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Bhagat\PycharmProjects\Rishav's Game" />
+      <recent name="C:\Users\Bhagat\PycharmProjects\Rishav's Game\Locker" />
+      <recent name="C:\Users\Bhagat\PycharmProjects\Rishav's Game\Images and Sounds" />
+      <recent name="C:\Users\Bhagat\PycharmProjects\Rishav's Game\Music and Image Files" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.Rishavs_Game">
+    <configuration default="false" name="Testing" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Rishav's Game" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Testing.py" />
+      <option name="PARAMETERS" value="" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Beeper" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Rishav's Game" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Beeper.py" />
+      <option name="PARAMETERS" value="" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="ImageDownloader" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Rishav's Game" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ImageDownloader.py" />
+      <option name="PARAMETERS" value="" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Rishavs_Game" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Rishav's Game" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Rishavs_Game.py" />
+      <option name="PARAMETERS" value="" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Paint" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Rishav's Game" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Paint.py" />
+      <option name="PARAMETERS" value="" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Rishav's Game" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="testToRun" value="" />
+      <option name="keywords" value="" />
+      <option name="params" value="" />
+      <option name="USE_PARAM" value="false" />
+      <option name="USE_KEYWORD" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Rishav's Game" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Rishav's Game" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Rishav's Game" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Rishav's Game" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Rishav's Game" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Python.Testing" />
+      <item index="1" class="java.lang.String" itemvalue="Python.Beeper" />
+      <item index="2" class="java.lang.String" itemvalue="Python.ImageDownloader" />
+      <item index="3" class="java.lang.String" itemvalue="Python.Rishavs_Game" />
+      <item index="4" class="java.lang.String" itemvalue="Python.Paint" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.Rishavs_Game" />
+        <item index="1" class="java.lang.String" itemvalue="Python.ImageDownloader" />
+        <item index="2" class="java.lang.String" itemvalue="Python.Testing" />
+        <item index="3" class="java.lang.String" itemvalue="Python.Paint" />
+        <item index="4" class="java.lang.String" itemvalue="Python.Beeper" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e18244d5-cb11-4070-8b04-08748a0c3a7f" name="Default" comment="" />
+      <created>1491514008215</created>
+      <updated>1491514008215</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="0" width="781" height="831" extended-state="1" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.39607844" sideWeight="0.4979757" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3991228" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.09834983" sideWeight="0.5020243" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.27157003" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32808024" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3288889" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3991228" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.09834983" sideWeight="0.5020243" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.08919271" sideWeight="0.4979757" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26874116" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+    </layout-to-restore>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <option name="time" value="11" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/MazeProgram.BAT">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="4" selection-start="17" selection-end="17" vertical-scroll-proportion="0.0" vertical-offset="34" max-vertical-offset="187" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Stuff.BAT">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="5" selection-start="117" selection-end="117" vertical-scroll-proportion="0.0" vertical-offset="68" max-vertical-offset="170" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Whackathon.BAT">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="4" selection-start="17" selection-end="17" vertical-scroll-proportion="0.0" vertical-offset="34" max-vertical-offset="187" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Image_Displayer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="0" selection-start="0" selection-end="461" vertical-scroll-proportion="0.0" vertical-offset="153" max-vertical-offset="374" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/castle.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pong.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="69" selection-start="68" selection-end="70" vertical-scroll-proportion="0.0" vertical-offset="17" max-vertical-offset="1666" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Battle.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="0" selection-start="550" selection-end="653" vertical-scroll-proportion="0.0" vertical-offset="255" max-vertical-offset="9112" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DodgeNEat.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="618" column="0" selection-start="24178" selection-end="24946" vertical-scroll-proportion="0.0" vertical-offset="10506" max-vertical-offset="15640" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CrossyRoad.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="226" column="0" selection-start="8283" selection-end="8283" vertical-scroll-proportion="0.0" vertical-offset="3842" max-vertical-offset="3944" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Testing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="102" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ImageDownloader.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="0" selection-start="134" selection-end="134" vertical-scroll-proportion="0.0" vertical-offset="85" max-vertical-offset="187" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FlappyBird.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="112" column="14" selection-start="4090" selection-end="4090" vertical-scroll-proportion="0.0" vertical-offset="1530" max-vertical-offset="2584" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Brickbreaker.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="132" column="8" selection-start="4519" selection-end="4580" vertical-scroll-proportion="0.0" vertical-offset="2244" max-vertical-offset="3995" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pong.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="57" column="10" selection-start="1688" selection-end="1688" vertical-scroll-proportion="0.0" vertical-offset="663" max-vertical-offset="1666" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Battle.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="65" column="8" selection-start="1872" selection-end="1872" vertical-scroll-proportion="0.0" vertical-offset="1009" max-vertical-offset="7786" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DodgeNEat.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="888" column="30" selection-start="33970" selection-end="33970" vertical-scroll-proportion="0.0" vertical-offset="14901" max-vertical-offset="15708" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CrossyRoad.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="53" column="101" selection-start="1740" selection-end="1740" vertical-scroll-proportion="0.0" vertical-offset="901" max-vertical-offset="3978" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Testing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="102" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FlappyBird.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="90" column="67" selection-start="3365" selection-end="3365" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2618" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Brickbreaker.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="229" column="10" selection-start="5204" selection-end="8008" vertical-scroll-proportion="0.0" vertical-offset="3520" max-vertical-offset="3995" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Battle.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="176" column="35" selection-start="6987" selection-end="6987" vertical-scroll-proportion="0.0" vertical-offset="2788" max-vertical-offset="6205" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DodgeNEat.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="750" column="63" selection-start="28615" selection-end="28615" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="13787" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CrossyRoad.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="135" column="50" selection-start="4778" selection-end="5316" vertical-scroll-proportion="0.0" vertical-offset="2278" max-vertical-offset="3842" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Testing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="102" />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/Portable Python 2.7.6.1/App/Lib/site-packages/pygame/sysfont.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="576" column="0" selection-start="23443" selection-end="23443" vertical-scroll-proportion="13.053118" vertical-offset="4140" max-vertical-offset="10863" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Battle.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="11" selection-start="359" selection-end="359" vertical-scroll-proportion="0.0" vertical-offset="136" max-vertical-offset="9112" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DodgeNEat.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="621" column="17" selection-start="24248" selection-end="24248" vertical-scroll-proportion="0.0" vertical-offset="10506" max-vertical-offset="15606" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CrossyRoad.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="226" column="0" selection-start="8283" selection-end="8283" vertical-scroll-proportion="0.0" vertical-offset="77" max-vertical-offset="476" />
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/.PyCharm30/system/python_stubs/1562763211/__builtin__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="0" selection-start="1104" selection-end="1104" vertical-scroll-proportion="0.33333334" vertical-offset="315" max-vertical-offset="87567" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Cool Music.mp3">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="742730" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/I got a pea.mp3">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="307530" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Just a Little Surprise.mp3">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="307530" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Minions Banana Song.mp3">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="72" selection-start="3619" selection-end="3619" vertical-scroll-proportion="0.3883249" vertical-offset="0" max-vertical-offset="887043" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FlappyBird.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3740" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pong.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="0" selection-start="1" selection-end="1" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1666" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/evilwhiteblock.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pranav Singing.mp3">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="156502" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sword.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/castle.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apple.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Brickbreaker.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="69" column="42" selection-start="2022" selection-end="2052" vertical-scroll-proportion="0.0" vertical-offset="884" max-vertical-offset="5100" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cookie_in_jail.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ImageDownloader.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="11" selection-start="313" selection-end="313" vertical-scroll-proportion="0.0" vertical-offset="68" max-vertical-offset="782" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Image_Displayer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="0" selection-start="0" selection-end="461" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="357" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Whackathon.BAT">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="4" selection-start="17" selection-end="17" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="187" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Stuff.BAT">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="5" selection-start="117" selection-end="117" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="170" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MazeProgram.BAT">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="4" selection-start="17" selection-end="17" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="187" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Testing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="9" selection-start="86" selection-end="86" vertical-scroll-proportion="0.11062907" vertical-offset="0" max-vertical-offset="461" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RishavIcon.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flash.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Rishavs_Game.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2271" column="0" selection-start="89089" selection-end="90772" vertical-scroll-proportion="0.64491653" vertical-offset="986" max-vertical-offset="1700">
+          <folding>
+            <element signature="e#1289#9227#0" expanded="false" />
+            <element signature="e#9246#12029#0" expanded="false" />
+            <element signature="e#12052#15955#0" expanded="false" />
+            <element signature="e#15982#16276#0" expanded="false" />
+            <element signature="e#16297#17847#0" expanded="false" />
+            <element signature="e#17869#20428#0" expanded="false" />
+            <element signature="e#20490#21301#0" expanded="false" />
+            <element signature="e#21322#23491#0" expanded="false" />
+            <element signature="e#23518#26449#0" expanded="false" />
+            <element signature="e#26481#28801#0" expanded="false" />
+            <element signature="e#28828#29895#0" expanded="false" />
+            <element signature="e#29922#29949#0" expanded="false" />
+            <element signature="e#29970#30545#0" expanded="false" />
+            <element signature="e#30568#33533#0" expanded="false" />
+            <element signature="e#33552#51670#0" expanded="false" />
+            <element signature="e#51698#57795#0" expanded="false" />
+            <element signature="e#57820#63203#0" expanded="false" />
+            <element signature="e#63225#85202#0" expanded="false" />
+            <element signature="e#85221#88019#0" expanded="false" />
+            <element signature="e#88048#89088#0" expanded="false" />
+            <element signature="e#89138#89257#0" expanded="false" />
+            <element signature="e#89344#90772#0" expanded="false" />
+            <element signature="e#90790#90917#0" expanded="false" />
+            <element signature="e#90939#91975#0" expanded="false" />
+            <element signature="e#91998#92799#0" expanded="false" />
+            <element signature="e#92817#92930#0" expanded="false" />
+            <element signature="e#92965#104445#0" expanded="false" />
+            <element signature="e#92993#94501#0" expanded="false" />
+            <element signature="e#94542#98239#0" expanded="false" />
+            <element signature="e#98283#100077#0" expanded="false" />
+            <element signature="e#100112#104445#0" expanded="false" />
+            <element signature="e#104464#104496#0" expanded="false" />
+            <element signature="e#104492#104496#0" expanded="false" />
+            <element signature="e#104533#104809#0" expanded="false" />
+            <element signature="e#104561#104809#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+
